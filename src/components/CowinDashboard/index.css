@@ -1,0 +1,56 @@
+* {
+  font-family: 'Roboto';
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #161625;
+  height: 100vh;
+  overflow: auto;
+}
+
+.co-win-vaccination-container {
+  width: 90%;
+  max-width: 900px;
+}
+
+.website-logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  width: 50px;
+  margin-right: 15px;
+}
+
+.logo-heading {
+  color: #2cc6c6;
+}
+
+.main-heading {
+  color: #ffffff;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.failure-img {
+  width: 50%;
+}

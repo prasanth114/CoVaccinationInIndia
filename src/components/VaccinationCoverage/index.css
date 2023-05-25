@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.card-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.card-container h1 {
+  color: #cbd5e1;
+  margin: 0px 0px 20px 0px;
+}
+.bar-style {
+  border-radius: 5px;
+}
